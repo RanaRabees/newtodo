@@ -1,0 +1,58 @@
+.mainheading {
+  color: rgb(28, 225, 38);
+  font-size: 2.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.mainheading:hover {
+  color: rgb(28, 212, 225);
+  font-size: 2.7rem;
+  font-style: italic;
+  font-weight: bolder;
+}
+.input {
+  width: 400px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: blueviolet;
+  font-size: 2rem;
+  font-style: italic;
+  font-weight: bold;
+  color: aqua;
+}
+
+.inputbtn {
+  width: 80px;
+  height: 50px;
+  border-radius: 10px;
+  background-color: rgb(220, 235, 17);
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.checkbtn {
+  width: 20px;
+  height: 20px;
+  border-radius: 10px;
+  background-color: rgb(220, 235, 17);
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+}
+.delete {
+  width: 80px;
+  height: 30px;
+  border-radius: 10px;
+  background-color: rgb(137, 235, 17);
+  font-size: 1.5rem;
+  font-style: italic;
+  font-weight: bold;
+  color: brown;
+}
+.ul {
+  font-size: xx-large;
+  color: rgb(236, 91, 13);
+  liststyletype: "none";
+  padding: 0;
+  text-align: center;
+}
